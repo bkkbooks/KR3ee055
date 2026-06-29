@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3ee055/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 銅人鍼灸經
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ee055.xml
+hash: sha256:72fdc4f526684ed0ad28565097d3af6d8f9581a7290d3e52162eb4e0005b6ce4
